@@ -22,7 +22,6 @@ It should look something like this:
   **Pan Cheng**
 2. Favorite blog
   *Science Fiction - Reddit*
-3. Link to my Github repo
-  https://github.com/NYUClasses/hw0-Cheng-Pan.git
-
+3. [My Github repo](https://github.com/NYUClasses/hw0-Cheng-Pan.git)
+  
 Once you are done, commit your changes, and push to GitHub. 
