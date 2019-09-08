@@ -19,9 +19,9 @@
 It should look something like this: 
 
 1. Name:
-  **Pan Cheng**
+  * **Pan Cheng**
 2. Favorite blog
-  *Science Fiction - Reddit*
+  * *Science Fiction - Reddit*
 3. [My Github repo](https://github.com/NYUClasses/hw0-Cheng-Pan.git)
   
 Once you are done, commit your changes, and push to GitHub. 
